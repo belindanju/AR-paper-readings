@@ -10,8 +10,11 @@ copyright: Copyright &copy; 2022 Tian Guo
 
 nav: 
   - Home: index.md
+  - Benchmarks: 
+    - ILLIXR: benchmarks/Huzaifa2020-hd.md
   - Datasets: 
     - MVImgNet: datasets/Yu2023-oz.md 
+  
 
 theme:
   name: material
